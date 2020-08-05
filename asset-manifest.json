@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xi-speech-demo/static/css/main.df4199d7.chunk.css",
+    "main.js": "/xi-speech-demo/static/js/main.8fee723a.chunk.js",
+    "main.js.map": "/xi-speech-demo/static/js/main.8fee723a.chunk.js.map",
+    "runtime-main.js": "/xi-speech-demo/static/js/runtime-main.8b3c082b.js",
+    "runtime-main.js.map": "/xi-speech-demo/static/js/runtime-main.8b3c082b.js.map",
+    "static/js/2.034f3d36.chunk.js": "/xi-speech-demo/static/js/2.034f3d36.chunk.js",
+    "static/js/2.034f3d36.chunk.js.map": "/xi-speech-demo/static/js/2.034f3d36.chunk.js.map",
+    "index.html": "/xi-speech-demo/index.html",
+    "precache-manifest.63cb5d2f893682e634838e0a869a2a92.js": "/xi-speech-demo/precache-manifest.63cb5d2f893682e634838e0a869a2a92.js",
+    "service-worker.js": "/xi-speech-demo/service-worker.js",
+    "static/css/main.df4199d7.chunk.css.map": "/xi-speech-demo/static/css/main.df4199d7.chunk.css.map",
+    "static/js/2.034f3d36.chunk.js.LICENSE.txt": "/xi-speech-demo/static/js/2.034f3d36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b3c082b.js",
+    "static/js/2.034f3d36.chunk.js",
+    "static/css/main.df4199d7.chunk.css",
+    "static/js/main.8fee723a.chunk.js"
+  ]
+}
