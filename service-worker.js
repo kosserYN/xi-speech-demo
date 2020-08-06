@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xi-speech-demo/precache-manifest.63cb5d2f893682e634838e0a869a2a92.js"
+  "/xi-speech-demo/precache-manifest.8171ec25a3c7887dafd329e3642b4390.js"
 );
 
 self.addEventListener('message', (event) => {
